@@ -10,7 +10,7 @@
 //         break
 //     } else {
 //         if (chute > numeroSecreto) {
-//             alert('O número secreto é menor')
+//             alert('O número secjjreto é menor')
 //         } else {
 //             alert('O número secreto é maior')
 //         }
